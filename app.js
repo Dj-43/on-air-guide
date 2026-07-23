@@ -24,7 +24,7 @@ const CHANNELS = [
   { num: "101", name: "News One", genre: "News", program: "Morning Report", next: "World Update — 9:00", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
   { num: "204", name: "Sportline", genre: "Sports", program: "Match Center", next: "Highlights — 8:30", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
   { num: "312", name: "CineMax Plus", genre: "Movies", program: "The Long Drive (2019)", next: "Late Feature — 10:15", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
-  { num: "418", name: "Kidz Zone", genre: "Kids", program: "Story Friends", next: "Sing & Learn — 8:15", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+  { num: "418", name: "Kidz Zone", genre: "Kids", program: "Story Friends", next: "Sing & Learn — 8:15", stream: "https://t.freetv.fun/m3u/kids.m3u" },
   { num: "509", name: "Discover", genre: "Docs", program: "Deep Ocean", next: "Wild Skies — 9:30", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
   { num: "622", name: "Music Live", genre: "Music", program: "Top 40 Countdown", next: "Request Hour — 8:45", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
   { num: "701", name: "Cook House", genre: "Lifestyle", program: "Weeknight Dinners", next: "Baking Hour — 9:00", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
