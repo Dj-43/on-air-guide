@@ -21,7 +21,7 @@ import {
 import Hls from "hls.js";
 
 const CHANNELS = [
-  { num: "101", name: "News One", genre: "News", program: "Morning Report", next: "World Update — 9:00", stream: "https://t.freetv.fun/m3u/kids.m3u" },
+  { num: "101", name: "News One", genre: "News", program: "Morning Report", next: "World Update — 9:00", stream: "http://smartvnow.xyz:25461" },
   { num: "204", name: "Sportline", genre: "Sports", program: "Match Center", next: "Highlights — 8:30", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
   { num: "312", name: "CineMax Plus", genre: "Movies", program: "The Long Drive (2019)", next: "Late Feature — 10:15", stream: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
   { num: "418", name: "Kidz Zone", genre: "Kids", program: "Story Friends", next: "Sing & Learn — 8:15", stream: "https://t.freetv.fun/m3u/kids.m3u" },
